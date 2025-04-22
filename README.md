@@ -1,0 +1,2 @@
+# practicas
+Trabajo colaborativo
