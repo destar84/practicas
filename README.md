@@ -1,2 +1,7 @@
 # practicas
-Trabajo colaborativo
+##Trabajo colaborativo
+
+###Integrantes del trabajo:
+-[]
+-[]
+-[]
