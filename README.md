@@ -22,5 +22,5 @@ Organizar y documentar el análisis y diseño del proyecto utilizando distintas 
 
 ### Integrantes del trabajo:
 - [Kevin Escobar] 
-- [] 
+- [Alexis Godoy] 
 - [] 
