@@ -24,4 +24,4 @@ Organizar y documentar el análisis y diseño del proyecto utilizando distintas 
 - [Kevin Escobar] 
 - [Maria Luz Romero]
 - [Juan M. González]
-- [] 
+- [Maximiliano Bartomeoli] 
