@@ -12,7 +12,7 @@ Cada análisis deberá abordar una de las siguientes áreas clave:
 
 - ✅ **Sistema de reservas y asignación automática de mesas** 🏨  
 - ✅ **Integración con plataformas de pago digital** 💳  
-- ✅ **Pedidos anticipados y autoservicio** 📱  
+- ✅ **Pedidos anticipados y autoservicio** 📱  [Godoy Alexis]
 - ✅ **Gestión de inventario y stock en tiempo real** 📦  
 - ✅ **Recomendaciones personalizadas con IA** 🤖  
 - ✅ **Panel de métricas y análisis para gerentes** 📊  
