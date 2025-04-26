@@ -19,7 +19,7 @@ Cada análisis deberá abordar una de las siguientes áreas clave:
 - ✅ **Sistema de comunicación interna (cocina-meseros)** 🗨️  [ruben albarracin]
 - ✅ **Gestión de clientes frecuentes y promociones** 🎟️  
 - ✅ **Optimización para dispositivos móviles y tablets** 🏗️ Maria Luz
-- ✅ **Soporte multi-idioma y personalización regional** 🌎  
+- ✅ **Soporte multi-idioma y personalización regional** 🌎  [González, Juan M.]
 
 ## 📌 Requisitos del Análisis  
 📎 Cada análisis deberá estructurarse en un archivo `README.md` dentro del módulo correspondiente.  
