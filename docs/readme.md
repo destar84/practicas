@@ -13,7 +13,7 @@ Cada análisis deberá abordar una de las siguientes áreas clave:
 - ✅ **Sistema de reservas y asignación automática de mesas** 🏨  
 - ✅ **Integración con plataformas de pago digital** 💳  
 - ✅ **Pedidos anticipados y autoservicio** 📱 [Alexis Godoy]  
-- ✅ **Gestión de inventario y stock en tiempo real** 📦  
+- ✅ **Gestión de inventario y stock en tiempo real** 📦  [Tomas Ilincheta]
 - ✅ **Recomendaciones personalizadas con IA** 🤖  
 - ✅ **Panel de métricas y análisis para gerentes** 📊  
 - ✅ **Sistema de comunicación interna (cocina-meseros)** 🗨️  [ruben albarracin]
