@@ -22,5 +22,6 @@ Organizar y documentar el análisis y diseño del proyecto utilizando distintas 
 
 ### Integrantes del trabajo:
 - [Kevin Escobar] 
-- [Maria Luz Romero] 
+- [Maria Luz Romero]
+- [Juan M. González]
 - [] 
