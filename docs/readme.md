@@ -12,13 +12,13 @@ Cada análisis deberá abordar una de las siguientes áreas clave:
 
 - ✅ **Sistema de reservas y asignación automática de mesas** 🏨  
 - ✅ **Integración con plataformas de pago digital** 💳  
-- ✅ **Pedidos anticipados y autoservicio** 📱 [Alexis Godoy]  
+- ✅ **Pedidos anticipados y autoservicio** 📱  
 - ✅ **Gestión de inventario y stock en tiempo real** 📦  
 - ✅ **Recomendaciones personalizadas con IA** 🤖  
 - ✅ **Panel de métricas y análisis para gerentes** 📊  
 - ✅ **Sistema de comunicación interna (cocina-meseros)** 🗨️  
 - ✅ **Gestión de clientes frecuentes y promociones** 🎟️  
-- ✅ **Optimización para dispositivos móviles y tablets** 🏗️  
+- ✅ **Optimización para dispositivos móviles y tablets** 🏗️ Maria Luz
 - ✅ **Soporte multi-idioma y personalización regional** 🌎  
 
 ## 📌 Requisitos del Análisis  
