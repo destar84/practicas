@@ -1,0 +1,32 @@
+# Analisis FoDA de una app para Restaurantes
+
+## Descripcion
+
+La seccion docs esta destinada al analisis y evaluacion estrategica de una aplicacion web para l gestion integral de un **bar o restaurante**.
+
+## PRIMER ENUNCIADO:
+
+Cda alumno debera desarrollar un Analisis FODA sobre un modulo espesifico, considerando FORTALEZAS, OPORTUNIDADES, DEBILIDADES Y AMENAZAS en el contexto de su implementacion.
+
+
+## 📂 Estructura del Trabajo  
+Cada análisis deberá abordar una de las siguientes áreas clave:  
+
+- ✅ **Sistema de reservas y asignación automática de mesas** 🏨  
+- ✅ **Integración con plataformas de pago digital** 💳  
+- ✅ **Pedidos anticipados y autoservicio** 📱  
+- ✅ **Gestión de inventario y stock en tiempo real** 📦  
+- ✅ **Recomendaciones personalizadas con IA** 🤖  
+- ✅ **Panel de métricas y análisis para gerentes** 📊  
+- ✅ **Sistema de comunicación interna (cocina-meseros)** 🗨️  
+- ✅ **Gestión de clientes frecuentes y promociones** 🎟️  
+- ✅ **Optimización para dispositivos móviles y tablets** 🏗️  
+- ✅ **Soporte multi-idioma y personalización regional** 🌎  
+
+## 📌 Requisitos del Análisis  
+📎 Cada análisis deberá estructurarse en un archivo `README.md` dentro del módulo correspondiente.  
+📎 El documento debe incluir:  
+   - **Introducción**  
+   - **Identificación del módulo**  
+   - **Análisis FODA detallado**  
+   - **Conclusión con recomendaciones**   
