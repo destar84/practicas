@@ -15,7 +15,7 @@ Cada análisis deberá abordar una de las siguientes áreas clave:
 - ✅ **Pedidos anticipados y autoservicio** 📱  [Godoy Alexis]
 - ✅ **Gestión de inventario y stock en tiempo real** 📦  
 - ✅ **Recomendaciones personalizadas con IA** 🤖  
-- ✅ **Panel de métricas y análisis para gerentes** 📊  
+- ✅ **Panel de métricas y análisis para gerentes** 📊  [González, Joaquín M.]
 - ✅ **Sistema de comunicación interna (cocina-meseros)** 🗨️  [ruben albarracin]
 - ✅ **Gestión de clientes frecuentes y promociones** 🎟️  
 - ✅ **Optimización para dispositivos móviles y tablets** 🏗️ Maria Luz
