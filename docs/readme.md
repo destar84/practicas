@@ -12,7 +12,7 @@ debilidades y amenazas en el contexto de su implementación.
 ## 📂 Estructura del Trabajo  
 Cada análisis deberá abordar una de las siguientes áreas clave:  
 
-- ✅ **Sistema de reservas y asignación automática de mesas** 🏨  
+- ✅ **Sistema de reservas y asignación automática de mesas** [Gabriel Mariani] 🏨  
 - ✅ **Integración con plataformas de pago digital** 💳  
 - ✅ **Pedidos anticipados y autoservicio** 📱  [Godoy Alexis]
 - ✅ **Gestión de inventario y stock en tiempo real** 📦  [Florencia Lobosco]
