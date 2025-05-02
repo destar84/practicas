@@ -21,14 +21,14 @@
 ### 💡 Oportunidades  
 *Lo que puede mejorar o aprovechar si se sigue desarrollando*
 
-• Integrarse con proveedores para hacer pedidos automaticos  
-  → Cuando el stock esta bajo, se manda una orden sin intervencion  
-• Usar notificaciones en tiempo real  
-  → Para avisar cuando hay faltantes, excesos o movimientos raros  
-• Escalar a versiones moviles o web para mas accesibilidad  
-  → Se puede usar desde cualquier lugar  
-• Conectarse con otros sistemas como ventas o facturacion  
-  → Para tener todo centralizado  
+• Cada vez mas proveedores permiten pedidos automaticos  
+  → Se puede aprovechar eso para automatizar compras cuando falte stock  
+• El mercado busca soluciones en tiempo real  
+  → La app puede destacarse por ofrecer eso 
+• Hay mucha demanda de sistemas que funcionen en celular o navegador  
+  → Expandirse a versiones moviles o web permite que mas gente lo use    
+• Muchos negocios ya usan sistemas de ventas o facturacion  
+  → Integrarse con ellos hace que la app sea mas util y buscada   
 
 ---
 
@@ -55,7 +55,7 @@
   → Afecta decisiones como comprar o vender  
 • Sistemas similares ya existen en el mercado  
   → Hay que pensar que lo hace distinto o mas util  
-• Puede ser dificil de mantener si crece mucho  
-  → Se vuelve mas complejo y puede necesitar mas recursos  
+• Si la app crece mucho, puede necesitar recursos o infraestructura que no esten disponibles  
+  → Como servidores pagos o servicios externos   
 
 ---
