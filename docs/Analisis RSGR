@@ -1,0 +1,13 @@
+# 📋 Plantilla de Análisis Preliminar de Riesgos (APR) - Proyecto "MesaYa"
+
+Este documento se utiliza para anticipar riesgos antes de iniciar una tarea o módulo del proyecto. 
+---
+
+## 🔍 Tabla de APR
+
+| Actividad o Tarea                         | Riesgo o Peligro Potencial                | Consecuencia                                   | Medida Preventiva o Correctiva                     |
+|------------------------------------------|-------------------------------------------|------------------------------------------------|----------------------------------------------------|
+| (Ej: Crear formulario de reservas)       | Errores en validación de datos            | Reserva incompleta o mal registrada           | Validar datos del formulario antes del envío       |
+|                                          |                                           |                                                |                                                    |
+|                                          |                                           |                                                |                                                    |
+|                                          |                                           |                                                |
