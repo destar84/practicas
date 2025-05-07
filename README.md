@@ -26,3 +26,4 @@ Organizar y documentar el análisis y diseño del proyecto utilizando distintas 
 - [Juan M. González]
 - [Joaquín M. González]
 - [Florencia Lobosco] 
+- [Gabriel Mariani]
