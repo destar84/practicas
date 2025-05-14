@@ -36,7 +36,7 @@ Este análisis evalúa la viabilidad del módulo propuesto, considerando el cont
 2. **Optimización de recursos**  
    - Reduce un 40% el tiempo de gestión manual (según casos de estudio en locales similares).  
 3. **Experiencia cliente mejorada**  
-   - Confirmación inmediata vía email/app.  
+   - Confirmación inmediata vía WPP/app.  
 
 ### 🟢 **Oportunidades**  
 1. **Fidelización mediante datos**  
@@ -44,15 +44,15 @@ Este análisis evalúa la viabilidad del módulo propuesto, considerando el cont
 2. **Atracción de nuevos perfiles**  
    - Publicidad en plataformas turísticas (TripAdvisor, Google Business).  
 
-### 🟠 **Debilidades**  
-1. **Brecha generacional**  
-   - 70% de clientes actuales prefieren teléfono (encuesta interna).  
-2. **Dependencia de conectividad**  
-   - La zona tiene cobertura irregular de internet.  
+### 🟠 **Debilidades**    
+1. **Falta de conocimiento/uso de aplicaciones**
+   - Si se tiene un personal que no esta acostumbrado al uso de aplicaciones.
+2. **Competencia con métodos tradicionales**  
+   - Riesgo de resistencia activa del personal.  
 
 ### 🔴 **Amenazas**  
-1. **Competencia con métodos tradicionales**  
-   - Riesgo de resistencia activa del personal.  
-2. **Costos ocultos**  
-   - Mantenimiento técnico y actualizaciones.  
+1. **Brecha generacional**  
+   - 70% de clientes actuales prefieren teléfono (encuesta interna).   
+2. **Dependencia de conectividad**  
+   - La zona tiene cobertura irregular de internet.   
 
